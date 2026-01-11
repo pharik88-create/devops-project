@@ -1,1 +1,1 @@
-This is version 1 of the app
+This is version 2 with login feature
